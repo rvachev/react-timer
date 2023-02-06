@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.timeInput {
+  width: 100px;
+  display: block;
+}
+
+.inputs {
+  display: flex;
+  margin-bottom: 1rem;
+  justify-content: space-around;
+}
+
+#minuteInput {
+  margin-right: .5rem;
+}
+
+#stopBtn {
+  margin-right: .5rem;
+  margin-left: .5rem;
+}
